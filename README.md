@@ -1,5 +1,7 @@
 theme: jekyll-theme-simple
+
 title: Welcome to Yazeth's homepage!
+
 description: This is a test.
 
 ## Welcome to GitHub Pages
