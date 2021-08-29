@@ -29,10 +29,17 @@ p {
 }
 
 #about {
-  background-color: rgba(255, 255, 255, .95);
+  background-color: rgba(255, 255, 255, .92);
 }
 
 #projects {
   background-color: rgba(0, 0, 0, 0.80);
 }
 
+#contact {
+  background-color: rgba(0, 0, 0, 1);
+}
+
+#contact-icons{
+  font-size: 5em;
+}
